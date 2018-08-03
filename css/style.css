@@ -17,8 +17,7 @@ hr {
 	border: none;
     height: 2px;
     /* Set the hr color */
-    color: #7d97ad; /* old IE */
-    background-color: #7d97ad; /* Modern Browsers */
+    background-color: #7d97ad;
 }
 
 .hero {

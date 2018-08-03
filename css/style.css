@@ -1,0 +1,64 @@
+body {
+	font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
+}
+
+.text-muted {
+	color: #7d97ad;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+hr {
+	width: 100%;
+	border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #7d97ad; /* old IE */
+    background-color: #7d97ad; /* Modern Browsers */
+}
+
+.hero {
+	max-width: 100%;
+	width: 100%;
+}
+
+.project-link {
+	text-decoration: none !important;
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+	.portfolio-name {
+		font-size: 60px;
+	}
+
+	.project-thumbnail {
+		width: 100%;
+	}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.portfolio-name {
+		font-size: 48px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and down) */
+@media (max-width: 576px) { 
+	.header-center {
+	    display: block;
+	    margin-left: auto;
+	    margin-right: auto;
+	    text-align: center;
+	}
+
+	.portfolio-role-center { 
+		text-align: center!important;
+	}
+}
+

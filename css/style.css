@@ -61,3 +61,8 @@ hr {
 	}
 }
 
+.css-validator-badge {
+	border:0;
+	width:88px;
+	height:31px;
+}

@@ -26,6 +26,7 @@ This website uses the following technologies:
 - **HTML 5**
 - **CSS 3**
 - **Bootstrap 4**
+- **[Project Thumbnails](https://smartmockups.com/category/digital/responsive)**
 
 # License
 This project is a public domain work, dedicated using CC0 1.0. Feel free to do whatever you want with it. (If you are a udacity student, learn but not cheat :P)
